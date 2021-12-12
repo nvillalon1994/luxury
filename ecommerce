@@ -1,1 +1,4 @@
-sdfsdfsdf
+PS C:\Users\TiendaOP\Desktop\Front-End\Tzuzucode\000> cd ecommerce
+PS C:\Users\TiendaOP\Desktop\Front-End\Tzuzucode\000\ecommerce> git branch -M main
+PS C:\Users\TiendaOP\Desktop\Front-End\Tzuzucode\000\ecommerce> git remote add aaa https://github.com/nvillalon1994/Ecommerce-Tzuzul.git
+PS C:\Users\TiendaOP\Desktop\Front-End\Tzuzucode\000\ecommerce> git push -u aaa main
